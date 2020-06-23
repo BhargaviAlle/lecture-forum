@@ -1,1 +1,1 @@
-# lecture-forum
+# Discussion Lecture Forum
